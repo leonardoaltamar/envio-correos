@@ -11,7 +11,7 @@ MAILER_SECRET_KEY=
 ```
 3. Ejecutar el comando ```npm install```
 4. Ejecutar ```npm run dev```
-
+5. El archivo que se debe editar es la template-email.ts, el cual se encuentra ubicado en la ruta src/presentation/email/template-email.ts
 
 ## Obtener Gmail Key
 [Google AppPasswords](https://myaccount.google.com/u/0/apppasswords)
